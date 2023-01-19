@@ -11,3 +11,67 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*  {
+  background: gray;
+}
+
+a {
+    text-decoration: none;
+  background: none;
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+}
+
+h1 {
+  margin: auto 1vw; 
+  padding: 1vw;
+  font-weight: bold;
+}
+
+.card {
+  background-color: peachpuff;
+  height: 500px;
+  width: 300px;
+  margin: 5vw;
+  position: relative;
+}
+
+.card .img-container {
+  height: 65%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.card .img-container img {
+  width: 100%;
+  padding: 15px;
+}
+
+.card .card-content {
+  font-size: 15px;
+  text-align: center;
+}
+
+#git-name {
+  margin-top: 8px;
+}
+
+.container {
+  justify-content: space-around;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 5px;
+}
+
+#footer {
+    padding: 5px;
+    margin-top: 10px;
+  }
+
+#footer, #footer p{
+  background-color: black;
+}

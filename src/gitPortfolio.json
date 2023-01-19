@@ -1,0 +1,25 @@
+[
+    {
+        "number" : 1,
+        "name" : "Weekly Scheduler",
+        "github" : "https://github.com/NeemanE/week5Assign"
+    },
+    
+     {
+        "number" : 2,
+        "name" : "Weather Checker",
+        "github" : "https://neemane.github.io/week6/"
+    },
+
+     {
+        "number" : 3,
+        "name" : "Project 1, Marvel Character Index",
+        "github" : "https://emsaw721.github.io/ragnarok/"
+    },
+
+     {
+        "number" : 4,
+        "name" : "Project 2, Bookworm Social Media",
+        "github" : "https://giselamarque.github.io/p2g8/"
+    }
+]
